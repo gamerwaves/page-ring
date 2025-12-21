@@ -38,6 +38,10 @@ export async function getEmbed() {
 }
 
 export async function getStatus() {
+  if (location.host === new URL(API_BASE).host) {
+    return { enabled: true };
+  }
+
   const res = await fetch(joinURL(API_BASE, "/embed/status"), {
     headers: {
       "Content-Type": "application/json",

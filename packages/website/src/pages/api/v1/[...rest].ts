@@ -86,13 +86,6 @@ app.get("/embed", async (c) => {
 });
 
 app.get("/embed/status", async (c) => {
-  const origin = c.req.header("Origin");
-  const originHostname = getHostname(origin || "");
-
-  if (originHostname === process.env.VERCEL_PROJECT_PRODUCTION_URL) {
-    return c.json({ enabled: true });
-  }
-
   const webringCookie = getCookie(c, "webring-enabled");
   const enabled = webringCookie === "true";
   return c.json({ enabled });
