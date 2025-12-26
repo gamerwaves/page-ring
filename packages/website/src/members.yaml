@@ -79,3 +79,8 @@
   name: "maverick"
   url: "https://maverickkamal.com/"
   buttonUrl: "https://maverickkamal.com/button.gif"
+
+- id: miniaturity
+  name: "miniaturity"
+  url: "https://minipa.ws/"
+  buttonUrl: "https://minipa.ws/images/mini.png"
