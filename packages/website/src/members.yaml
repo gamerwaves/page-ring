@@ -54,3 +54,8 @@
   name: "joy su"
   url: "https://byjoysu.vercel.app/"
   buttonUrl: "/buttons/byjoysu.gif"
+
+- id: maverickkamal
+  name: "maverick"
+  url: "https://maverickkamal.com/"
+  buttonUrl: "https://maverickkamal.com/button.gif"
