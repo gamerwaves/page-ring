@@ -72,8 +72,8 @@
 
 - id: eshan
   name: "eshan does"
-  url: "https://eshandoes.vercel.app/"
-  buttonUrl: "https://eshandoes.vercel.app/88x31buttons/personal.png"
+  url: "https://eshandoes.com/"
+  buttonUrl: "https://eshandoes.com/88x31buttons/personal.png"
 
 - id: maverick
   name: "maverick"
@@ -99,6 +99,11 @@
   name: "sarvesh"
   url: https://sarvesh.rocks/
   buttonUrl: "https://sarvesh.rocks/assets/sarvesh-button.gif"
+
+- id: udu
+  name: "udu"
+  url: https://udu3324.org
+  buttonUrl: "https://udu3324.org/88x31.gif"
 
 - id: gamerwaves
   name: "dwait pandhi"

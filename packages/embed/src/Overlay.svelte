@@ -180,7 +180,7 @@
                     alt=""
                     width="88"
                     height="31"
-                    class="flex-none"
+                    class="pixelated flex-none"
                   />
                   <div class="min-w-0 flex-1 *:leading-none">
                     <p class="mb-0.5 text-sm font-semibold">{member.name}</p>
@@ -233,6 +233,6 @@
   :host {
     user-select: none;
     position: relative;
-    z-index: calc(infinity);
+    z-index: calc(infinity) !important;
   }
 </style>
