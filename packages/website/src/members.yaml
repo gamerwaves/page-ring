@@ -50,7 +50,7 @@
   url: "https://lilia.rocks/"
   buttonUrl: "https://lilia.rocks/88x31button.gif"
 
-- id: byjoysu
+- id: joysu
   name: "joy su"
   url: "https://byjoysu.vercel.app/"
   buttonUrl: "/buttons/byjoysu.gif"
@@ -72,10 +72,40 @@
 
 - id: eshan
   name: "eshan does"
-  url: "https://eshandoes.vercel.app/"
-  buttonUrl: "https://eshandoes.vercel.app/88x31buttons/personal.png"
+  url: "https://eshandoes.com/"
+  buttonUrl: "https://eshandoes.com/88x31buttons/personal.png"
 
 - id: acash
   name: "aakash"
   url: "https://acashsite.vercel.app/"
   buttonUrl: "https://hc-cdn.hel1.your-objectstorage.com/s/v3/65adbc4ef9c268d6_button.png"
+
+- id: maverick
+  name: "maverick"
+  url: "https://maverickkamal.com/"
+  buttonUrl: "https://maverickkamal.com/button.gif"
+
+- id: miniaturity
+  name: "miniaturity"
+  url: "https://minipa.ws/"
+  buttonUrl: "https://minipa.ws/images/mini.png"
+
+- id: touhouengie
+  name: "touhou engie"
+  url: "https://touhouengie.com/"
+  buttonUrl: "https://fileserver.touhouengie.com/drive/webpage_data/Images/rin8831.png"
+
+- id: vqb
+  name: "vqb"
+  url: "https://vvqb.dev/"
+  buttonUrl: "https://vvqb.dev/88x31/vvqb_dev.gif"
+
+- id: sarvesh
+  name: "sarvesh"
+  url: https://sarvesh.rocks/
+  buttonUrl: "https://sarvesh.rocks/assets/sarvesh-button.gif"
+
+- id: udu
+  name: "udu"
+  url: https://udu3324.org
+  buttonUrl: "https://udu3324.org/88x31.gif"
